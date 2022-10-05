@@ -64,13 +64,13 @@ class Script(scripts.Script):
             output_images += proc.images
             # TODO: Also add wildcard data to exif of individual images, currently only appear on the saved grid.
             infotext = "Wildcard prompt: "+original_prompt+"\nExample: "+proc.info
-            all_seeds.append(p.seed)
+            all_seeds.append(proc.seed)
             infotexts.append(infotext)
             if initial_seed is None:
                 initial_info = infotext
-                initial_seed = p.seed
+                initial_seed = proc.seed
             if not same_seed:
-                p.seed += 1
+                p.seed = proc.seed+1
 
         p.do_not_save_grid = original_do_not_save_grid
 
@@ -80,6 +80,7 @@ class Script(scripts.Script):
 
             if opts.return_grid:
                 infotexts.insert(0, initial_info)
+                all_seeds.insert(0, initial_seed)
                 output_images.insert(0, grid)
 
             if opts.grid_save:
