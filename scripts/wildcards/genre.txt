@@ -1,20 +1,431 @@
-ancient
-anime
-art deco
-cyberpunk
-dark fantasy
-dieselpunk
-fantasy
-film noir
-gothic
-high fantasy
-historic
-medieval
-mid-century
-renaissance
-sci-fi
-steampunk
-synthwave
-victorian
-vintage
-weird west
+Military fiction
+Spy fiction
+Superhero fiction
+Swashbuckler
+Ruritanian romance
+Comedy of manners
+Comic fantasy
+Dark comedy
+Science fiction comedy
+Satire
+Absurdist
+surrealist
+Cozy mysteries
+Detective story
+Whodunit
+Gentleman thief
+Gong'an fiction
+Legal thriller
+Locked-room mysteries
+Murder mystery
+Noir fiction
+Hardboiled
+Bangsian
+Contemporary fantasy
+Urban fantasy
+Dark fantasy
+Fables
+Fairy tales
+Fantasy kitchen sink
+Hard fantasy
+Epic/High fantasy
+Heroic fantasy
+Historical fantasy
+Legends
+LitRPG
+Magical girl
+Magic realism
+Mythic fiction
+Portal Fantasy
+Isekai
+Science fantasy
+Sword and planet
+Dying Earth
+Gaslamp fantasy
+Victorian
+Edwardian
+Shenmo
+Sword and sorcery
+Biography
+Autobiography
+Memoir
+Alternate history
+Counterfactual history
+Period piece
+Jidaigeki
+Ghost story
+Gothic fiction
+Monster
+Vampire literature
+Jiangshi fiction
+Occult stories
+Antichrist
+Survival horror
+zombies
+Amish romance
+Contemporary romance
+Fantasy romance
+Medical romance
+Paranormal romance
+Regency romance
+Romantic thriller
+satire
+Apocalyptic
+post-apocalyptic fiction
+end of civilization
+war
+dystopic societies
+Hard science fiction
+Jurassic
+Soft science fiction
+Comic science fiction
+Military science fiction
+Feminist science fiction
+Libertarian science fiction
+Social science fiction
+Space opera
+Science fiction Western
+Planetary romance
+Space Western
+Cyberpunk
+Postcyberpunk
+near-future
+Retropunk
+Atompunk
+Dieselpunk
+Steampunk
+Clockpunk
+Mannerpunk
+Biopunk
+Nanopunk
+Solarpunk
+Slipstream
+Supernatural fiction
+Superhero fiction
+Utopian
+Weird fiction
+ thriller
+Disaster-thriller
+Psychological thriller
+Crime thriller
+Techno-thriller
+western
+Paranoid fiction
+Philosophical fiction
+Bildungsroman
+Political fiction
+Social science fiction
+Survivalism
+Sagas
+Family saga
+Urban fiction
+Adult content
+Anthology
+Anthology film
+Anthology series
+Art film
+quality television
+Crime
+Detective
+Gong'an
+Film noir
+neo-noir
+Gangster
+Heroic bloodshed
+Mafia
+Mafia comedy
+Mumbai underworld
+Yakuza
+Gokud?
+Heist
+Hood film
+Mystery
+Poliziotteschi
+Vigilante
+Experimental
+Gothic romance
+Gothic sci-fi
+Southern gothic
+Suburban gothic
+Urban gothic
+Contemporary fantasy
+Urban fantasy
+Dark fantasy
+High fantasy
+epic fantasy
+Fantasy comedy
+Contemporary fantasy
+Fairy tale
+Fantastique
+Historical fantasy
+Magic realism
+Science fantasy
+Miniseries
+Musical film
+Television movies
+Police procedural
+Dizi
+Soap opera
+Social
+Sports
+Telenovela
+Teleroman
+Techno thriller
+Superhero film
+Disaster film
+Girls with guns/swords
+Heroic bloodshed
+Spy
+Wuxia action
+Traditional animation
+Animated series
+Computer-generated imagery
+CGI
+Stop motion
+Claymation
+Puppetry
+Action comedy
+Bromantic comedy
+Comedy drama
+Comedy horror
+Comedy thriller
+Commedia all'italiana
+Gross out
+Mo lei tau
+Mockumentary
+Parody
+Screwball comedy
+Silent comedy
+Sitcom
+Sketch comedy
+Slapstick
+Surreal humour
+Whimsical
+Docudrama
+Legal drama
+Medical drama
+Melodrama
+Military drama
+Philosophical drama
+Psychological drama
+Political drama
+Teen drama
+Costume drama
+Found footage
+Tech noir
+Empire Western
+Marshal Western
+Outlaw Western
+Revenge Western
+Revisionist Western
+Science fiction Western
+Spaghetti Western
+Infomercial
+Instructional
+Reality film
+Court show
+Talk show
+Breakfast television
+Late-night talk shows
+Concert film
+Cooking show
+Game show
+Music television
+News program
+Breaking news
+Traffic reports
+Weather forecasts
+Public affairs
+Religious
+Stand-up comedy
+Sports TV
+Beat 'em ups
+Hack and slash
+Fighting
+Platform
+Shooter
+Hero
+Light gun
+Shoot 'em up
+Run-and-gun
+Tactical
+Third-person shooter
+Stealth
+Survival
+Battle royale
+First-person action-adventure
+Grand Theft Auto clone
+Interactive fiction
+Interactive film
+Visual novel
+platform-adventure game
+Isometric platform-adventure
+Narrative adventure
+Walking simulator
+Point-and-click adventure
+Puzzle adventure
+Action RPG
+Massive multiplayer online role playing game
+Open-world RPG
+Roguelike
+Tactical RPG
+Construction and management
+tycoon games
+City-building
+Flight Simulation
+Amateur flight
+Combat flight
+Space flight
+Racing
+Kart racing
+Sim racing
+Submarine simulator
+Train simulator
+Vehicular combat
+Simulation shooter
+Medical simulation
+Military simulation
+Life simulation
+Dating sim
+Bish?jo
+Digital pet
+God
+Evolution simulation
+Social simulation
+Sports
+Olympic video games
+Racing game
+Digital tabletop
+Digital collectible card game
+Gacha game
+Roguelike deck-building
+4X
+Auto battler
+Multiplayer online battle arena
+Real-time strategy
+Real-time tactics
+Turn-based strategy
+Turn-based tactics
+Artillery
+Tower defense
+Wargame
+Grand strategy wargame
+Military simulation
+Alternate reality game
+Incremental game
+Music game
+Puzzle
+Maze
+Sokoban
+Tile-matching
+Party
+Typing
+Audio
+Arcade
+Classic
+Vintage
+Antique
+Console
+Handheld
+Mobile
+Online
+Browser
+Cloud
+Social-network
+PC game
+Text-based
+Tile-based
+Virtual reality
+Side-scrolling
+Toys-to-life
+Advergame
+Art
+Casual
+Christian
+Educational
+Esports game
+Exergame
+Serious games
+Blues
+Country music
+Bluegrass
+jazz
+Electronic music
+Ambient
+Breakbeat
+Downtempo
+Drum and bass
+Jungle
+Electro
+Eurobeat
+Glitch
+House
+Synthwave
+Techno
+Trance
+UK Garage
+Hip hop
+Pop
+Adult contemporary music
+Break-up music
+Europop
+K-pop
+Rock music
+Folk rock
+Heavy metal
+Punk rock
+Soul music
+Calypso
+Reggae
+Reggaeton
+Tango
+Tropical
+Mambo
+Merengue
+Avant-garde music
+Experimental music
+Noise
+Musique concrete
+Electroacoustic
+Easy listening
+Background music
+Beautiful music
+Elevator music
+Furniture music
+Lounge music
+Middle of the road
+New-age music
+Contemporary folk
+Folk rock
+Neofolk
+Folk Noir
+Neopagan
+Protest song
+Psychedelic folk
+Western music
+funk 
+martial
+opera
+operette
+zarzuela
+Progressive
+Psychedelic
+Religious music
+Christian music
+Christian R&B
+Gospel music
+Early music
+Medieval music
+Renaissance music
+Common-practice period
+Baroque music
+Galant music
+Classical
+Neo-romantic
+20th-century
+Modernism
+Impressionism
+Neoclassicism
+High modernism
+Postmodern
+1950
